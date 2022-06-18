@@ -1,0 +1,55 @@
+body{
+  border: 1.9px solid rgba(178,107,109,0.3);
+  padding:5px;
+
+
+}
+.prog
+{
+  background-image:url("https://images.unsplash.com/photo-1592743263126-bb241ee76ac7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=386&q=80")
+  
+}
+
+.i
+{
+  font-style:oblique;
+  font-size:1.2rem;
+  padding:0;
+  
+}	
+header
+{
+ display:flex;
+ align:center;
+
+  
+}
+.navi
+{
+  display:flex;
+  list-style:none;
+}
+.item
+{
+  margin-left:2rem;
+}
+a:hover
+{
+  color:brown;
+  
+}
+a
+{
+  color:black;
+  text-decoration:none;
+}
+#thanks
+{
+  margin-left:34rem;
+  margin-top:30px;
+  margin-right:29rem;
+  align:right;
+  
+  padding:10px 20px 5px 5px;
+  background-color:rgba(96,10,100,0.3)
+}
